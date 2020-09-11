@@ -6,17 +6,23 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Spiel1-Atmo.unity
-    guid: e06c5777329624fa1bc02bda089b5fec
-  - enabled: 1
-    path: Assets/Scenes/Korridor.unity
-    guid: 2659b578ee2d2471f83cf8db139b6ff3
-  - enabled: 1
     path: Assets/Scenes/MenueSzene.unity
     guid: 5bf410e3163b84dc69fcde5eccb5e211
   - enabled: 1
     path: Assets/Scenes/IntroRaum.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/TripIntroRaum.unity
+    guid: 020be8b6d6566694b821b9fe29d23e2d
+  - enabled: 1
+    path: Assets/Scenes/Korridor.unity
+    guid: 2659b578ee2d2471f83cf8db139b6ff3
+  - enabled: 1
+    path: Assets/Scenes/Spiel1-Atmo.unity
+    guid: e06c5777329624fa1bc02bda089b5fec
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 06ba44605f446f24f85f7f87120d7eb9
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 1e0bb3fb31dc54825bfb6b395596117a,
       type: 2}
