@@ -8,10 +8,16 @@ public class TriggerObjects : MonoBehaviour
     public GameObject Prefab;
     public GameObject headphones;
     public GameObject Kopfhoerer;
-    
     public GameObject voegel;
+    public GameObject AudioSource;
+    public AudioClip Erzaehler;
+    
+    AudioSource SoundQuelle;
 
-    // Start is called before the first frame update
+    void Start()
+    {
+        SoundQuelle=AudioSource.GetComponent<AudioSource>(); //access Prefab audio
+    }
     
 
     void OnTriggerEnter()
@@ -20,6 +26,9 @@ public class TriggerObjects : MonoBehaviour
         headphones.SetActive(true);
 
         voegel.SetActive(true);
+
+        SoundQuelle.clip = Erzaehler;
+        SoundQuelle.Play();
 
         Destroy(Kopfhoerer);
     }

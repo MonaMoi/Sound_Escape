@@ -6,12 +6,12 @@
    public float targetTime = 15.0f;
    public GameObject Birds;
 
-   public AudioSource sound;
+   //public AudioSource sound;
    
    void Update(){
       
       //verringert das Volumen um den Wert je Frame-Update
-      sound.volume -= 0.0015f;
+     // sound.volume -= 0.0015f;
 
       //transform.position += Vector3.right * Time.deltaTime*20;
       targetTime -= Time.deltaTime;
