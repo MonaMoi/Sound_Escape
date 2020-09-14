@@ -15,7 +15,7 @@ public class SmokePlay : MonoBehaviour
 
     private IEnumerator SmokeStart()
     {
-        yield return new WaitForSeconds(10);
+        yield return new WaitForSeconds(16);
         smoke.Play();
             
     }

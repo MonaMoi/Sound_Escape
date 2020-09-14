@@ -10,9 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 6607901114830466235}
   - component: {fileID: 6607901114830466237}
-  - component: {fileID: 6607901114830466234}
   m_Layer: 0
-  m_Name: UpperTrigger
+  m_Name: DoorTrigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -45,17 +44,3 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 3.0629406, y: 1, z: 5.0000467}
   m_Center: {x: -0.24039936, y: 0, z: -1.4039787}
---- !u!114 &6607901114830466234
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6607901114830466232}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: aa56c20c2ffd8f64897fec341333455f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  anim: {fileID: 0}
-  moveObj: {fileID: 0}
