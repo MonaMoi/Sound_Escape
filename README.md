@@ -11,7 +11,8 @@ Mit einer audiovisuellen Ausgestaltung (und etwas Humor) erleben die Nutzer*inne
 
 ##Steuerung
 ###Windows:
-Maus gedrückt halten, um zu laufen.
+Den Zeiger der Maus am besten in der Mitte des Spiel-Bildschirms platzieren.
+Die Maus gedrückt halten, um zu laufen.
 Mit Drücken von "Alt" kann die Sicht geändert werden
 Wenn Buttons anfokussiert werden, erscheint ein Kreis, der sich langsam füllt.
 Wenn dieser gefüllt ist, wird die Auswahl/ das "Klicken" des Buttons bestätigt und

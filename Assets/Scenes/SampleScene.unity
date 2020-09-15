@@ -3021,9 +3021,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 89c9cbe3c35f11649a7f91c402c140bc, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.516
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -3519,7 +3519,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 493e4ebbef4f72b49abe5fa6dcbc1ac2, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.565
+  m_Volume: 0.231
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -3804,7 +3804,7 @@ MonoBehaviour:
   AudioSourceToChange: {fileID: 1082032426}
   headphones: {fileID: 716553992}
   Kopfhoerer: {fileID: 1599494641}
-  newAudio: {fileID: 0}
+  newAudio: {fileID: 8300000, guid: 1c8c3caf2fe2f0a43bd6d42a03b1ce9c, type: 3}
   nextNarrator: {fileID: 8300000, guid: 068fa2e7759a7a949a8a24ac362ccf86, type: 3}
 --- !u!1 &1612670200
 GameObject:
@@ -4163,7 +4163,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 48249a381aec11e4889b91c4cbb78035, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.89
+  m_Volume: 0.978
   m_Pitch: 1
   Loop: 0
   Mute: 0
