@@ -8,6 +8,16 @@ die Bedeutung von Klang für die Erschaffung von Atmosphäre wird klar aufgezeig
 Mit einer audiovisuellen Ausgestaltung (und etwas Humor) erleben die Nutzer*innen eine immersive Spielerfahrung vor dem Hintergrund einer kleinen Geschichte.
 
 
+
+##Steuerung
+###Windows:
+Maus gedrückt halten, um zu laufen.
+Mit Drücken von "Alt" kann die Sicht geändert werden
+Wenn Buttons anfokussiert werden, erscheint ein Kreis, der sich langsam füllt.
+Wenn dieser gefüllt ist, wird die Auswahl/ das "Klicken" des Buttons bestätigt und
+von der Anwendung als solches vernommen.
+
+
 ##Spielerklärung
 Das Spiel beginnt mit der Menü-Szene, darauf folgt das Intro. Hier wird durch eine vorab aufgenommene Kamerafahrt - ohne 
 Interaktionsmöglichkeit - in einer kurzen Einleitung die inhaltliche Basis der Geschichte erstellt. 
@@ -20,6 +30,6 @@ Ein Aufzug öffnet sich links, nach Betreten führt dieser zu einem Korridor. Am
 Hier stehen drei Kapseln, nur die rechte ist aktiv. Wenn man in das dortige Hollogram eintritt, ertönt ein Sound, welchen man mittels der zwei Buttons auf einer Kapselseite erraten muss. 
 Nach Fokussierung des richtigen Buttons erklingt ein signal-gebender Sound und die nächste Kapsel und ihr Atmosphären-Hollogram wird freigegeben.
 Wenn alle drei Atmosphären richtig erraten wurden, erscheint nach der letzten Kapsel eine Tür, die zum nächsten Raum führt.
-Nun befindet man sich in einem Raum, der wie ein geschlossener Wald mit vier Wänden aussieht. Der Erzähler macht den/die Spieler*in, was vor sich geht: die Sounds klingen nicht nach einem Wald.
+Nun befindet man sich in einem Raum, der wie ein geschlossener Wald mit vier Wänden aussieht. Der Erzähler macht den/die Spieler*in darauf aufmerksam, was vor sich geht: die Sounds klingen nicht nach einem Wald.
 Die Vögel klingen wie Flugzeuge, man hört keine Naturgeräusche, sondern vielmehr Menschen, ohne, dass welche zu sehen sind. Es müssen alle im Wald liegenden Kopfhörer
-nacheinander aufgesammelt werden, um die richtigen Sounds freizuschalten. Nach Beenndigung dieser Aufgabe gelangt man in den finalen Raum.
+nacheinander aufgesammelt werden, um die richtigen Sounds freizuschalten.
