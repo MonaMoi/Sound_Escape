@@ -8,7 +8,7 @@ public class LevelLoader : MonoBehaviour
 
     public Animator transition;
 
-    public float transitionTime = 1f;
+    public float transitionTime = 3f;
 
     private void OnTriggerEnter()
     {
