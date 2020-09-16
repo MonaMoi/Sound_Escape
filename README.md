@@ -5,9 +5,9 @@ Modulprüfung zum Seminar: "Auditory Spaces: Sound als Gestaltungsmittel in VR u
 Dieses Projekt verdeutlicht die Bedeutung von Sound und Audio für die immersive Gaming-Erfahrung.
 In Verknüpfung mit einer VR-Umgebung werden diese auch mit visuellen Komponenten verbunden, ob durch falsche Geräuschquellen oder Hollograme, die als Audiokapseln fungieren -
 die Bedeutung von Klang für die Erschaffung von Atmosphäre wird klar aufgezeigt.
-Mit einer audiovisuellen Ausgestaltung (und etwas Humor) erleben die Nutzer*innen eine immersive Spielerfahrung vor dem Hintergrund einer kleinen Geschichte.
+Mit einer audiovisuellen Ausgestaltung (und etwas Humor) erleben die Nutzer*innen eine immersive Spielerfahrung vor dem Hintergrund einer kleinen Geschichte. 
 
-
+Bitte Kopfhörer verwenden!
 
 ##Steuerung
 ###Windows:
@@ -19,7 +19,7 @@ Wenn dieser gefüllt ist, wird die Auswahl/ das "Klicken" des Buttons bestätigt
 von der Anwendung als solches vernommen.
 
 
-##Spielerklärung
+##Spielerklärung:
 Das Spiel beginnt mit der Menü-Szene, darauf folgt das Intro. Hier wird durch eine vorab aufgenommene Kamerafahrt - ohne 
 Interaktionsmöglichkeit - in einer kurzen Einleitung die inhaltliche Basis der Geschichte erstellt. 
 Der/die Spieler*in gelangt durch einen kleinen *Trip* mit einem Freund auf einen großen Trip durch das Spiel:
@@ -32,5 +32,7 @@ Hier stehen drei Kapseln, nur die rechte ist aktiv. Wenn man in das dortige Holl
 Nach Fokussierung des richtigen Buttons erklingt ein signal-gebender Sound und die nächste Kapsel und ihr Atmosphären-Hollogram wird freigegeben.
 Wenn alle drei Atmosphären richtig erraten wurden, erscheint nach der letzten Kapsel eine Tür, die zum nächsten Raum führt.
 Nun befindet man sich in einem Raum, der wie ein geschlossener Wald mit vier Wänden aussieht. Der Erzähler macht den/die Spieler*in darauf aufmerksam, was vor sich geht: die Sounds klingen nicht nach einem Wald.
-Die Vögel klingen wie Flugzeuge, man hört keine Naturgeräusche, sondern vielmehr Menschen, ohne, dass welche zu sehen sind. Es müssen alle im Wald liegenden Kopfhörer
-nacheinander aufgesammelt werden, um die richtigen Sounds freizuschalten.
+Die Vögel klingen wie Flugzeuge, man hört keine Naturgeräusche, sondern vielmehr Menschen, ohne, dass welche zu sehen sind. Es müssen alle im Wald liegenden Kopfhörer nacheinander aufgesammelt werden, um die richtigen Sounds freizuschalten.
+
+##Spiel über Unity Starten:
+In dem Asset Ordner unter "Scenes" muss "MenueSzene" geöffnet werden. Anschließend muss der Game-Mode durch "Play" aktiviert werden und das Spiel beginnt.
