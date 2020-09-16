@@ -426,25 +426,6 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 230486498}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &198716919
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 198716918}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 037fb0e0d1228d346ad9cafec7c6257a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Spawnpoint: {fileID: 0}
-  Prefab: {fileID: 610164271616301400, guid: 895835a43537fe44abcc8ee804a4bbb9, type: 3}
-  headphones: {fileID: 716553992}
-  Kopfhoerer: {fileID: 198716918}
-  voegel: {fileID: 82291070}
-  AudioSource: {fileID: 1765450672}
-  Erzaehler: {fileID: 8300000, guid: 2c98c96b5b84fb245a64e4946d9b268b, type: 3}
 --- !u!65 &198716920
 BoxCollider:
   m_ObjectHideFlags: 0
