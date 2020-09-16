@@ -1304,6 +1304,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SpeakingReh: {fileID: 320758309}
+  Trigger: {fileID: 385442440}
 --- !u!65 &385442442
 BoxCollider:
   m_ObjectHideFlags: 0
